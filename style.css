@@ -1,0 +1,44 @@
+body{
+    background-color: red;
+}
+
+.text{
+    background-color: greenyellow;
+    color: blue;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 250px;
+    width: 500px;
+    font-size: 10px;
+
+
+
+}
+button{
+    background-color: greenyellow;
+    color: blue;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   height: 30px;
+   width: 200px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 30px;
+
+}
+
+.navbar
+{
+    color: white;
+    background-color: grey;
+    border-bottom: 2px soilid black;
+    text-align: center ;
+    padding: 3px;
+    font-size: 20px;
+    margin: 0px;
+}
+
+
